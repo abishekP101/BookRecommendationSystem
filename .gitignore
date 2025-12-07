@@ -1,0 +1,6 @@
+venv/
+.env
+#DATA
+Notebook/BX-Book-Ratings.csv
+Notebook/BX-Books.csv
+Notebook/BX-Users.csv
