@@ -4,3 +4,7 @@ venv/
 Notebook/BX-Book-Ratings.csv
 Notebook/BX-Books.csv
 Notebook/BX-Users.csv
+
+notebooks/BX-Book-Ratings.csv
+notebooks/BX-Books.csv
+notebooks/BX-Users.csv
